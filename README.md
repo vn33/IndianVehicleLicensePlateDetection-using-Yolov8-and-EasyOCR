@@ -4,7 +4,6 @@ This project involves detecting vehicles and reading their license plates from v
 <table>
   <tr>
     <td><img src="https://github.com/vn33/IndianVehicleLicensePlateDetection-using-Yolov8-and-EasyOCR/blob/master/resources/Indian_license_plate_format.png" alt="Indian License Plate Format"></td>
-    <td><img src="https://github.com/vn33/IndianVehicleLicensePlateDetection-using-Yolov8-and-EasyOCR/blob/master/resources/output_image.png" alt="Output Image"></td>
   </tr>
 </table>
 
